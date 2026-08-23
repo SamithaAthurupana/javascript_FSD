@@ -53,6 +53,33 @@ console.log(typeof num3);
 console.log(typeof true);
 console.log(typeof 100);
 
+//Operations
+//  Arithmetic
+//     Subtraction - Addition +,Multiplication *, Division /, Modulus %, Exponent **
+
+let q = 10;
+let w = 6;
+console.log(q-w);
+console.log(q+w);
+console.log(q*w);
+console.log(q/w);
+console.log(q%w);
+console.log(q**w);
+
+// Assignment Operations
+// += , -=, *=, /=
+let x = 5;
+x *= 5;
+console.log(x);
+
+// Comparison Operators
+// ==, ===, !=, !==, >, <, >=, <=
+// 5 == "5"; true
+// 5 === "5"; false
+
+// Logical Operators
+//  && , ||, !
+
 
 
 
